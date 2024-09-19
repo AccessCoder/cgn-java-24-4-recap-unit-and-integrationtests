@@ -1,4 +1,4 @@
-package com.example.cgnjava244recapunitandintegrationtests.service;
+package com.example.cgnjava244recapunitandintegrationtests.util;
 
 import org.springframework.stereotype.Service;
 
